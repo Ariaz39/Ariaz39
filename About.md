@@ -20,4 +20,4 @@ Since then I have dedicated myself to specializing in backend development, colla
 
 ## Contact me:
 
-* Email: mailto:ariaz39@hotmail.com
+* Email: ariaz39@hotmail.com
