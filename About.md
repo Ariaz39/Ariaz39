@@ -12,7 +12,6 @@ Since then I have dedicated myself to specializing in backend development, colla
 * Django
 * Git
 * Rest
-</br>
 
 ## Find me at:
 
