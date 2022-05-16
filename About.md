@@ -1,12 +1,24 @@
-- 👋 Hi, I’m Alejandro @Ariaz39
-- 👀 I’m interested in to learn many languages to my CV
-- 🌱 I’m currently learning to work whit Python and Django
-- 💞️ I’m looking to collaborate as much as possible for me 
-- 📫 I am a junior programmer graduated from SENA in Colombia and I have the whole attitude of continuing to learn.
-- I have 3 years of experience working with PHP and Laravel, as well as MySQL databases, HTML, CSS, Bootstrap, Javascript and Jquery.
+# Hello, my name is Alejandro Ariaz
+### Freelance backend developer Laravel & Django
 
+I have been a software developer for more than three years, I graduated from SENA in Colombia and I am currently continuing my career as a systems engineer, developing new skills and learning new technologies.
 
-<!---
-Ariaz39/Ariaz39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Since then I have dedicated myself to specializing in backend development, collaborating with companies from different parts of the country and doing freelance work.
+
+## Some skills:
+* PHP
+* Laravel
+* Python
+* Django
+* Git
+* Rest
+</br>
+
+## Find me at:
+
+* Instagram: https://www.instagram.com/alejo_ariasz/
+* LinkedIn: https://www.linkedin.com/in/alejandro-ariaz/
+
+## Contact me:
+
+* Email: mailto:ariaz39@hotmail.com
